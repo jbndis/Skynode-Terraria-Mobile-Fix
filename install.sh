@@ -29,7 +29,6 @@ worldname=default
 world=/home/container/saves/Worlds/default.wld
 difficulty=3
 autocreate=1
-port=7777
 maxplayers=8
 EOF
 mkdir -p /mnt/server/saves/Worlds
